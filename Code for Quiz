@@ -22,7 +22,7 @@ class QuizApp:
         }
 
         self.current_question = None
-        self.score = 7
+        self.score = 6
 
         self.create_widgets()
         self.show_next_question()
